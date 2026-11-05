@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|c:\\users\\marcelo\\documents\\deberes\\ingenieria web\\proyecto\\minicrm\\minicrm\\admin\\acciones.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\acciones.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\acciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\acciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\situaciones.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\situaciones.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\situaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\situaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\categorias.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\categorias.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\segmentos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\segmentos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\segmentos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\segmentos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\productos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\productos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\panel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\panel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\conexion\\conexionbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\conexion\\conexionbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\campanas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\campanas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\campanas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\campanas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\clientes.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\clientes.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\usuarios.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\usuarios.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\admin\\panel.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\admin\\panel.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\services\\seguridad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\services\\seguridad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\cerrarsesion.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\cerrarsesion.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\cerrarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\cerrarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\pruebaroles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\pruebaroles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\pruebaconexion.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\pruebaconexion.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\minicrm\\pruebaconexion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|MiniCRM\\MiniCRM.vbproj|solutionrelative:minicrm\\pruebaconexion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acciones.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Acciones.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Acciones.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Acciones.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Acciones.aspx.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T22:09:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Acciones.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Acciones.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Acciones.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Acciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T22:09:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Situaciones.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Situaciones.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Situaciones.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Situaciones.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Situaciones.aspx.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T22:09:07.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Situaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Situaciones.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Situaciones.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Situaciones.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Situaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T22:09:00.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categorias.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Categorias.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Categorias.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Categorias.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Categorias.aspx.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T22:08:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categorias.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Categorias.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Categorias.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Categorias.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Categorias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T22:08:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Segmentos.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Segmentos.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Segmentos.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Segmentos.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Segmentos.aspx.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T22:08:20.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Segmentos.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Segmentos.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Segmentos.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Segmentos.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Segmentos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T22:08:07.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Productos.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Productos.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Productos.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Productos.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Productos.aspx.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T21:57:53.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Campanas.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Campanas.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Campanas.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Campanas.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Campanas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T21:57:36.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Productos.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Productos.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Productos.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T21:57:25.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Clientes.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Clientes.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Clientes.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Clientes.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Clientes.aspx.vb",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwI8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T21:49:22.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Default.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Default.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Default.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Default.aspx.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:30:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Default.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Default.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Default.aspx",
+              "RelativeToolTip": "MiniCRM\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-04T22:29:55.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Login.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Login.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Login.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Login.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:29:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Login.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Login.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Login.aspx",
+              "RelativeToolTip": "MiniCRM\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-04T22:28:54.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Panel.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Panel.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Panel.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Panel.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Panel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-04T22:31:16.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Campanas.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Campanas.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Campanas.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Campanas.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Campanas.aspx.vb",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T21:58:03.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Web.config",
+              "RelativeDocumentMoniker": "MiniCRM\\Web.config",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Web.config",
+              "RelativeToolTip": "MiniCRM\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-31T03:03:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConexionBD.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Conexion\\ConexionBD.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Conexion\\ConexionBD.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Conexion\\ConexionBD.vb",
+              "RelativeToolTip": "MiniCRM\\Conexion\\ConexionBD.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T03:05:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Clientes.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Clientes.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Clientes.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Clientes.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Clientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-05T21:48:29.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Seguridad.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Services\\Seguridad.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Services\\Seguridad.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Services\\Seguridad.vb",
+              "RelativeToolTip": "MiniCRM\\Services\\Seguridad.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:26:43.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CerrarSesion.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\CerrarSesion.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\CerrarSesion.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\CerrarSesion.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\CerrarSesion.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:33:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Usuarios.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Usuarios.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Usuarios.aspx",
+              "RelativeToolTip": "MiniCRM\\Admin\\Usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-04T22:03:56.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuarios.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Usuarios.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Usuarios.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Usuarios.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Usuarios.aspx.vb",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:17:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Panel.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Panel.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\Admin\\Panel.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\Admin\\Panel.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\Admin\\Panel.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T22:31:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CerrarSesion.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\CerrarSesion.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\CerrarSesion.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\CerrarSesion.aspx",
+              "RelativeToolTip": "MiniCRM\\CerrarSesion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-04T22:33:25.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PruebaRoles.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaRoles.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\PruebaRoles.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaRoles.aspx",
+              "RelativeToolTip": "MiniCRM\\PruebaRoles.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-31T04:00:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PruebaConexion.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaConexion.aspx.vb",
+              "RelativeDocumentMoniker": "MiniCRM\\PruebaConexion.aspx.vb",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaConexion.aspx.vb",
+              "RelativeToolTip": "MiniCRM\\PruebaConexion.aspx.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-31T03:15:56.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PruebaConexion.aspx",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaConexion.aspx",
+              "RelativeDocumentMoniker": "MiniCRM\\PruebaConexion.aspx",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\DEBERES\\Ingenieria WEB\\Proyecto\\MiniCRM\\MiniCRM\\PruebaConexion.aspx",
+              "RelativeToolTip": "MiniCRM\\PruebaConexion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-31T03:15:46.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
